@@ -1,0 +1,14 @@
+body img { 
+background-color: green;
+}
+body nav {
+	margin-left: 750px;
+	margin-top: 5px;
+	background-color: black;
+}
+
+body p {
+	margin-left: 400px;
+	margin-right: 500px;
+	background-color: skyblue;
+}
